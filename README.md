@@ -4,7 +4,7 @@ I'm @aagraston.
 
 I'm a web developer!
 
-I'm making my way through my first handfull of projects. Excited to be growing in all things web design and dev.
+I'm making my way through my first handfull of projects. You can trust I'm having one metric butt-ton of fun every single day.
 
 See what I'm currently working on at my insta: 
 
