@@ -1,10 +1,8 @@
 Hey, thanks for checking out my page... you nerd 🤓 
 
-I'm @aagraston.
+I'm @aagraston, a web developer! Making my way through my first handful of projects...
 
-I'm a web developer, making my way through my first handful of projects.
-
-🌠 I'm always learning!🌠
+🎉 Learning is fun 🎉
 
 See what I'm currently working on at my insta: 
 
