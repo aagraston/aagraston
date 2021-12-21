@@ -4,7 +4,7 @@ I'm @aagraston.
 
 I'm a web developer, making my way through my first handful of projects.
 
-🌠 You can trust I'm having one metric butt-ton of fun every single day, designing and developing. 🌠
+🌠 I'm always learning!🌠
 
 See what I'm currently working on at my insta: 
 
