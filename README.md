@@ -4,7 +4,7 @@ I'm @aagraston, a web developer! Making my way through my first handful of proje
 
 🎉 Learning is fun 🎉
 
-See what I'm currently working on at my insta: 
+I also make funny graphics: 
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
