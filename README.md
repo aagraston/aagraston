@@ -1,10 +1,6 @@
 Hey, thanks for checking out my page... you nerd 🤓 
 
-I'm @aagraston, a web developer! Making my way through my first handful of projects...
-
-🎉 Learning is fun 🎉
-
-I also make funny graphics: 
+I'm @aagraston, a web developer! Making my way through my first handful of projects.
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
