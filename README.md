@@ -1,6 +1,10 @@
-Hey, thanks for checking out my page... you nerd 🤓 
+Hey, welcome to my GitHub page!
 
-I'm @aagraston, a web developer!
+I'm @aagraston, a web developer.
+
+I'll develop a website for you through my company: www.glowhouseweb.com
+
+Thanks for stopping by!
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
