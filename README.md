@@ -2,7 +2,7 @@ Hey, welcome to my GitHub!
 
 I'm @aagraston, a web developer.
 
-Reach out to have your website developed through my business!: www.glowhouseweb.com
+Here is where I work on all sorts of web development project, feel free to have a poke around!
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
