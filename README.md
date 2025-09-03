@@ -1,13 +1,10 @@
 Hey, welcome to my GitHub!
 
-I'm @aagraston, a web developer & data programmer.
+I'm @aagraston, a web developer.
 
-I build websites at:
-goodvalleyweb.com
+I develop small business websites through my company: Good Valley Web Design.
 
-You can see what I'm up to at:
-closingtagdev.com
-
+Have a look!: goodvalleyweb.com
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
