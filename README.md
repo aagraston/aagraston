@@ -2,7 +2,7 @@ Hey, welcome to my GitHub!
 
 I'm @aagraston, a web developer.
 
-I develop small business websites through my company: Good Valley Web Design.
+I develop small business websites through my company: Good Valley Web Designs.
 
 <!---
 aagraston/aagraston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
